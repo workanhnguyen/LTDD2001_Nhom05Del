@@ -59,7 +59,7 @@
 <!--        </AutoCompleteTextView>-->
         <androidx.fragment.app.FragmentContainerView
             android:id="@+id/fragmentContainerView4"
-            android:name="com.example.quanlychitieu.FragmentItemAdd"
+            android:name="com.example.fragment.FragmentItemAdd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 

@@ -1,4 +1,4 @@
-package com.example.quanlychitieu;
+package com.example.fragment;
 
 import android.os.Bundle;
 
@@ -11,6 +11,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Toast;
+
+import com.example.quanlychitieu.R;
 
 /**
  * A simple {@link Fragment} subclass.
